@@ -68,7 +68,7 @@ const Header = () => {
           <LocationOnIcon />
           <p className='text-sm text-lightText font-light flex flex-col'>
             Deliver to
-            <span className='text-sm font-semibold text-whiteText'>Gwalior</span>
+            <span className='text-sm font-semibold text-whiteText'>Home</span>
           </p>
         </div>
         <div className='h-10 rounded-md hidden lgl:flex flex-grow relative'>
